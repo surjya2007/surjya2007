@@ -38,3 +38,11 @@ I'm working on practical coding and web development projects. More projects comi
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surjya2007&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surjya2007&layout=compact&theme=tokyonight)
